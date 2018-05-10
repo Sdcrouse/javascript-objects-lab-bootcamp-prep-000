@@ -15,3 +15,6 @@ function deleteFromObjectByKey(object, key) {
   return alternateObj;
 }
 
+function destructivelyDeleteFromObjectByKey(obj, key) {
+  
+}
